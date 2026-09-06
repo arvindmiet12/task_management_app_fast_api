@@ -1,1 +1,12 @@
 psycopg2-binary==2.9.12
+
+
+
+## Some impotenet command 
+python -m venv env
+./env/Scripts/activate
+pip install "fastapi[standard]"
+
+
+pip install SQLAlchemy
+pip install pydantic_settings
